@@ -1,0 +1,2 @@
+var a=3;function fn(){return a+=34}alert(fn());var b=4,c=5,d=6;function sum(){return parseInt(prompt())+parseInt(prompt())}alert(sum());
+function drag(n){document.getElementById(n).onmousedown=function(n){e=n||event}}
